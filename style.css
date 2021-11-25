@@ -1,0 +1,20 @@
+h1 {
+  width: 100%;
+  text-align: center;
+  color: #294f07;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.container img {
+  width: 30vw;
+  padding: 1%;
+  border-radius: 15%;
+  filter: brightness(50%);
+}
+.container img:hover {
+  filter: brightness(100%);
+}/*# sourceMappingURL=style.css.map */
